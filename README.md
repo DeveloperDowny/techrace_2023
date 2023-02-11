@@ -3,5 +3,5 @@ The official TechRace 2023 and Validation Flutter App and ExpressJS Server for t
 TechRace is a treasure hunt kind of a event scaled across entire Mumbai.
 
 # Contributors
-Vedant Panchal <a href="google.com">GitHub</a>  <a href="google.com">LinkedIn</a> 
+Vedant Panchal <a href="www.google.com">GitHub</a>  <a href="google.com">LinkedIn</a> 
 Stephen Vaz <a href="google.com">GitHub</a>  <a href="google.com">LinkedIn</a> 
