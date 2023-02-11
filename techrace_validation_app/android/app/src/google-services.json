@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "project_number": "893211332380",
+    "firebase_url": "https://dummy-default-rtdb.firebaseio.com",
+    "project_id": "dummy",
+    "storage_bucket": "dummy.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:893211332380:android:a923caf7f0cab8707ff4d9",
+        "android_client_info": {
+          "package_name": "com.oculus.techrace"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "893211332380-qtpi48182kmhde4nedk9bd1sp0m72fte.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB07Ftle4q3maRzdp6EgdZqxffuP_Y3Q-A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "893211332380-qtpi48182kmhde4nedk9bd1sp0m72fte.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "893211332380-0rmcookcibvs4g4jpn09lfdfitmdu50q.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.oculus.techRace.techrace"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:893211332380:android:a44f611a459423377ff4d9",
+        "android_client_info": {
+          "package_name": "com.oculus.techracev.techracev"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "893211332380-qtpi48182kmhde4nedk9bd1sp0m72fte.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB07Ftle4q3maRzdp6EgdZqxffuP_Y3Q-A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "893211332380-qtpi48182kmhde4nedk9bd1sp0m72fte.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "893211332380-0rmcookcibvs4g4jpn09lfdfitmdu50q.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.oculus.techRace.techrace"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

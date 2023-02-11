@@ -1,0 +1,6 @@
+.env
+/node_modules
+mfirebase_config.js
+/env
+TODO.txt
+env.zip
