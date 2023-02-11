@@ -1,10 +1,21 @@
 # TechRace 2023
-The official TechRace 2023 and Validation Flutter App and ExpressJS Server for the TechRace 2023 Oculus Event of Sardar Patel Institute of Technology.<br>
-TechRace is a treasure hunt kind of a event scaled across entire Mumbai.
+The official TechRace 2023 App for the TechRace 2023 Oculus Event of Sardar Patel Institute of Technology.<br>
+TechRace is a treasure hunt kind of a event scaled across entire Mumbai.<br>
+<a href="https://www.instagram.com/techrace2023">TechRace 2023 Instagram Page<a><br>
+  
+  ## What is TechRace?<br>
+You have to crack clues shown on the app and find out the correct location.<br>
+Then, you have to go to that location to get the next clue.<br>
+The team to crack all the clues first wins the race.
 
-<a href="https://www.instagram.com/techrace2023">TechRace 2023 Instagram Page<a>
 
-# Contributors
+## Technologies Used
+  - Flutter for IOS and Android application
+  - ExpressJS for server and REST API
+  - Firebase Realtime Database for game data
+  - Firebase Firestore Database for login data
+
+# Contributors of the App
 Vedant Panchal <a href="https://github.com/DeveloperDowny">(GitHub)</a> <a href="https://www.linkedin.com/in/vedantpanchal/">(LinkedIn)</a><br>
 Stephen Vaz <a href="https://github.com/stephenvaz">(GitHub)</a> <a href="https://www.linkedin.com/in/stephen-vaz-b9b791218">(LinkedIn)</a>
 
