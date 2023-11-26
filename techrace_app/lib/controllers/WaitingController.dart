@@ -5,7 +5,8 @@ import 'package:techrace/model/WaitingModel.dart';
 class WaitingController extends GetxController {
 
   // final willStartAt = DateTime.fromMillisecondsSinceEpoch(1212);
-  final timeLeft = 60.obs;
+  // final timeLeft = 60.obs;
+  final timeLeft = (60*60*72).obs;
   final CountDownController controller = CountDownController();
 
   // final stateModel = StateModel(currentState);

@@ -894,13 +894,15 @@ class QRcode extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return QrImage(
-      // backgroundColor: Colors.white.withOpacity(0.5),
-      errorCorrectionLevel: QrErrorCorrectLevel.M,
-      data: teamId,
-      version: QrVersions.auto,
-      // size: 200.0,
-    );
+    return 
+    // QrImage(
+    //   // backgroundColor: Colors.white.withOpacity(0.5),
+    //   errorCorrectionLevel: QrErrorCorrectLevel.M,
+    //   data: teamId,
+    //   version: QrVersions.auto,
+    //   // size: 200.0,
+    // );
+    QrImageView(data: teamId, size: 200);
   }
 }
 

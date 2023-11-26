@@ -3,7 +3,7 @@ import 'package:flutter/cupertino.dart';
 import 'package:flutter/services.dart';
 import 'package:geolocator/geolocator.dart';
 import 'package:flutter_beacon/flutter_beacon.dart';
-import 'package:notification_permissions/notification_permissions.dart' as nP;
+// import 'package:notification_permissions/notification_permissions.dart' as nP;
 import 'package:permission_handler/permission_handler.dart';
 
 Future<void> locateUser() async {

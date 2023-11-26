@@ -141,12 +141,14 @@ class _RegistrationScreenState extends State<RegistrationScreen> {
                   margin: const EdgeInsets.all(16),
                   height: ScreenUtil().screenWidth * 0.6,
                   width: ScreenUtil().screenWidth * 0.6,
-                  child: QrImage(
-                    backgroundColor: Colors.white,
-                    errorCorrectionLevel: QrErrorCorrectLevel.M,
-                    data: MLocalStorage().getTeamID(),
-                    version: QrVersions.auto,
-                    // size: 200.0,
+                  // child: QrImage(
+                  //   backgroundColor: Colors.white,
+                  //   errorCorrectionLevel: QrErrorCorrectLevel.M,
+                  //   data: MLocalStorage().getTeamID(),
+                  //   version: QrVersions.auto,
+                  //   // size: 200.0,
+                  // ) as Widget,
+                  child:  QrImageView(data: MLocalStorage().getTeamID(), size: 200.0,
                   ),
                 )
                 // add qr code here
